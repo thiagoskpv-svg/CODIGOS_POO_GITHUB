@@ -1,0 +1,2 @@
+class InventarioLlenoError(Exception):
+    pass
